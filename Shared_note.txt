@@ -1,5 +1,6 @@
 공유메모장 생성완료
-userA 메모장 확인 완료
+userA 메모장 확인 완료 >> admin에서 userA의 오류 발견 >> admin에서 수정완료
 userA 작업 완료
 userB 메모장 확인 완료
 userB 작업 완료
+
