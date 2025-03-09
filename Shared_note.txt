@@ -2,3 +2,4 @@
 userA 메모장 확인 완료
 userA 작업 완료
 userB 메모장 확인 완료
+userB 작업 완료
